@@ -1,6 +1,6 @@
 # Samuel的C++教學網
-## learncpp.xyz
-https://learncpp.xyz
+## learncpp.samuelguo.xyz
+https://learncpp.samuelguo.xyz
 ## 更新日誌
 2024/06/19:網站初次部署、完成首頁雛形
 
